@@ -1,0 +1,16 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home -  Avery</title>
+    </head>
+    <frameset rows="60, *" frameborder="no" >
+        <frame src="./page/navbar.html" name="navbar">
+        <frameset cols="180, *" frameborder="no">
+            <frame src="./page/sidebar.html" name="sidebar">
+            <frame src="./page/home.html" name="content" frameborder="no">
+        </frameset>
+    </frameset>
+    <body>
+    </body>
+</html>
